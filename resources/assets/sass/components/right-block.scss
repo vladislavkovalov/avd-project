@@ -1,0 +1,28 @@
+.right-block {
+    margin-left: 16px;
+    width: 300px;
+    
+    .settings-block {
+        border: 1px solid #000;
+        padding: 10px;
+        height: 242px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 16px;
+        
+        .title-adv {
+            font-size: 30px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+    }
+    
+    .slot-block {
+        border: 1px solid #000;
+        padding: 10px;
+        height: 242px;
+    }
+}
